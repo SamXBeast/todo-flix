@@ -7,7 +7,7 @@ function Footer() {
         <div className="mb-4">
           <a href="#" className="hover:underline">Terms of Service</a>
           {' | '}
-          <a href="#" className="hover:underline">Privacy Policy</a>
+          <a href="#" className="">Privacy Policy</a>
           {' | '}
           <a href="#" className="hover:underline">Contact Us</a>
         </div>
