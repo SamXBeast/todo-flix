@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add any custom styles here */
+.dropdown-menu {
+    display: none;
+  }
+  
+  .dropdown-menu.show {
+    display: block;
+  }
+  
